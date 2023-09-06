@@ -1,3 +1,3 @@
-# Dasar Pemrograman - Jobsheet 2
+# Dasar pemograman - jobsheet 2
 
-Hello Github, ini adalah repository pertama saya.
+Hello github, ini adalah repository pertama saya.
